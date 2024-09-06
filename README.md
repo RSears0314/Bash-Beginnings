@@ -4,6 +4,7 @@
 What is BASH? A bash script is a combination of commands stored in a file which are executed at once by the bash program.
 
 [username@host ~]$ - The shell is waiting for a command from the user
+
 [root@host ~]#     - The shell is running as root
 
 To create a BASH file:
