@@ -20,4 +20,4 @@ There are 6 main operators; -eq = Equal to, -ge = Greater than equal to, -gt = G
 Conditional Statments used in bash; if...then...fi; if...then...else...fi; if..elif..else..fi\
 You can also use and (-a) and or (-o) for comparisons. 
 
-You can automate scripts using cron jobs. 
+You can automate scripts using cron jobs. (See CRON Jobs)
