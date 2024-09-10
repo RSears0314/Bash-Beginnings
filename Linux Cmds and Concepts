@@ -1,5 +1,9 @@
 COMMANDS:
 'echo' - the equivalent of print in Python for Linux
+'mkdir' - makes a directory
+'cd' - changes the active directory
+'ls' - lists the directories
+'cat' - views the contents of the files, can also be used to view them sequentially by listing the filenames one after the other
 
 
 
@@ -18,4 +22,3 @@ Conditional Statments used in bash; if...then...fi; if...then...else...fi; if..e
 You can also use and (-a) and or (-o) for comparisons. 
 
 You can automate scripts using cron jobs. 
-
