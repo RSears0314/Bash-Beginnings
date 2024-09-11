@@ -4,5 +4,4 @@ The daemon is called crond. (A daemon is a non interactive program thats running
 
 '$ sudo apt update && sudo apt install cron' - updates/installs cron if it is not already.\
 '$ps aux | grep cron' - checks the crons that are running.\
-
-....cronitor.io/guides/cron-jobs....
+'$ sudo systemctl enable cron' - once installed, this enables cron\
