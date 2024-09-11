@@ -6,6 +6,7 @@ COMMANDS:\
 'cat' - views the contents of the files, can also be used to view them sequentially by listing the filenames one after the other
 
 
+
 CONCEPTS:\
 You can define variables like in other coding launguages. For example, Fruit=Apple would store the word Apple in the variable Fruit.
 To get the value of a variable, put $ before the variable. 
